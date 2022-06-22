@@ -6,7 +6,7 @@ public class Cats {
     private final String text;
     private final String type;
     private final String user;
-    private final int upvotes;
+    private final Integer upvotes;
 
 
     public Cats(
